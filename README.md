@@ -1,5 +1,5 @@
 # Ubisoft Database Puller
-[![GitHub Release](https://img.shields.io/github/v/release/EliaPym/Ubisoft-Data-Puller)](https://github.com/EliaPym/Ubisoft-Data-Puller/releases/download/v1.0/Ubi_DB_Puller.exe)\
+[![GitHub Release](https://img.shields.io/github/v/release/EliaPym/Ubisoft-Data-Puller)](https://github.com/EliaPym/Ubisoft-Data-Puller/releases/download/v1.1/Ubi_DB_Puller.exe)\
 [![Twitter Follow](https://img.shields.io/twitter/follow/SpkWasTaken?logo=twitter)](https://twitter.com/SpkWasTaken)
 
 ***
@@ -10,7 +10,7 @@
 ***
 
 ## Installation:
-1. Download latest release executable (or [click here](https://github.com/EliaPym/Ubisoft-Data-Puller/releases/download/v1.0/Ubi_DB_Puller.exe))
+1. Download latest release executable (or [click here](https://github.com/EliaPym/Ubisoft-Data-Puller/releases/download/v1.1/Ubi_DB_Puller.exe))
 2. Save file where ever you want
 3. Done!
 
@@ -32,4 +32,3 @@
 
 ### Other Notes:
 - This software is very delicate and breaks easily. If this happens please close the app and relaunch it.
-- There is currently no way to download another set of matches after you complete one set. If you want to download another set of matches then close the app and relaunch it and repeat the above processes.
